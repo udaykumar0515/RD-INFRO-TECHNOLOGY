@@ -44,12 +44,6 @@ This repository contains solutions to the machine learning tasks completed as pa
 
 ---
 
-## ⚠️ Notes
-
-- Large `.csv` files (datasets) are **not included** in the repo to comply with GitHub's 100MB file size limit.
-- To run the notebooks locally, you can manually download the datasets from the provided links.
-
----
 
 ## ✅ Technologies Used
 - Python
